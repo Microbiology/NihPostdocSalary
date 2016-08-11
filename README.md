@@ -10,3 +10,5 @@ There are a couple of points we can take away from this visualization. *First*, 
 
 # Further Reading
 Check out [this nice article](http://www.sciencemag.org/careers/2016/08/nih-sets-new-postdoc-stipend-levels?utm_content=34891413&utm_medium=social&utm_source=facebook) in Science.
+
+Check out the [NIH Documentation](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-131.html) for even more information.
