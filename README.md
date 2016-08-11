@@ -6,4 +6,4 @@ All I did here was recreate what the old model would have looked like for 2017, 
 
 There are a couple of points we can take away from this visualization. *First*, the new threshold is right on the governmant mandated minimum. *Second*, once you have a couple of postdoc years of experience, it really doesn't matter. You pick up right where you would have been. *Finally*, this does benefit actually benefit postdocs in their early stages. The higher starting rate means that young postdocs will have accumulated more total cash.
 
-![PdSalaryPlot.pdf](./PdSalaryPlot.pdf)
+![PdSalaryPlot.png](./PdSalaryPlot.png)
