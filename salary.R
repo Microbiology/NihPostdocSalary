@@ -38,7 +38,11 @@ salaryPlot <- ggplot(total, aes(x=year, y=a, group=model, colour=model)) +
 	theme(axis.line.x = element_line(color="black"),
 		axis.line.y = element_line(color="black")) +
 	geom_line() +
-	scale_colour_brewer(palette="Set1")
+	scale_colour_brewer(palette="Set1") +
+	geom_hline(yintercept=47476, linetype="dashed") +
+	annotate("text", x = 6, y = 47750, label = "Minimum Threshold") +
+	ylab("Postdoc Salary (Dollars)") +
+	xlab("Year in Postdoc")
 
 pdf("./PdSalaryPlot.pdf", height=6, width=8)
 	salaryPlot
