@@ -12,3 +12,9 @@ There are a couple of points we can take away from this visualization. *First*, 
 Check out [this nice article](http://www.sciencemag.org/careers/2016/08/nih-sets-new-postdoc-stipend-levels?utm_content=34891413&utm_medium=social&utm_source=facebook) in Science.
 
 Check out the [NIH Documentation](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-131.html) for even more information.
+
+# Data Collection
+
+These two sources above were also where I looked to get my data. 
+
+The percent increases are outlined in the Science Article and agreed with NIH records. I started the salary of the old model as an estimate based on how the previous years have increased, and the 4% icnrease from there was pretty standard. Check out the source code for the details.
